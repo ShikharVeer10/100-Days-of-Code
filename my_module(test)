@@ -1,0 +1,3 @@
+import random
+import my_module # Picked up the code from a different file named my_module and printed the output in a new file
+print(my_module.py)
