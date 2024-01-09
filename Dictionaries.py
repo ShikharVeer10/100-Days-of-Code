@@ -23,3 +23,18 @@ print(programming_dictionary)
 for key in programming_dictionary:
     print(key)
     print(programming_dictionary[key])
+
+
+
+dict = {
+    "a": 1,
+    "b": 2,
+    "c": 3,
+}
+dict["c"]=[1,2,3]
+print(dict["c"])
+
+for key in dict:
+    dict[key]+=1
+print(dict[key])
+
